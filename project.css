@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #6fd2f2;
+}
+.header{
+    margin: 1% 0%;
+    font-size: 24pt;
+    font-family:'docs-roboto',Arial, Helvetica, sans-serif;
+    letter-spacing: 0;
+    font-weight: 400;
+    border-bottom: 0.5PX solid rgb(15, 3, 3);
+}
+.container{
+    max-width: 55%;
+    
+}
